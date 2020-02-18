@@ -1,0 +1,22 @@
+{
+  "name": "blockchain-explorer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "erc20-contract-js": "^1.1.1",
+    "etherscan-api": "^8.1.2",
+    "ethplorer-js": "^0.0.7",
+    "moment": "^2.22.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4",
+    "semantic-ui-react": "^0.81.1",
+    "web3": "^1.0.0-beta.34"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
